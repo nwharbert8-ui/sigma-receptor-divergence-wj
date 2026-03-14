@@ -1,0 +1,11 @@
+data/
+results/
+figures/
+MS3_Results/
+MS3_Figures/
+MS3_Supplementary_Tables/
+__pycache__/
+*.pyc
+.DS_Store
+*.gct.gz
+*.gct

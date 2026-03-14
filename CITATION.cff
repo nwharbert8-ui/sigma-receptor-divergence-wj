@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Harbert"
+    given-names: "Drake H."
+    orcid: "https://orcid.org/0009-0007-7740-3616"
+    affiliation: "Inner Architecture LLC, Canton, OH, USA"
+title: "Sigma Receptor Co-Expression Architecture Divergence (WJ-Native)"
+version: 1.0.0
+date-released: 2026-03-14
+url: "https://github.com/nwharbert8-ui/sigma-receptor-divergence-wj"
+license: MIT
