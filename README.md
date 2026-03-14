@@ -67,6 +67,10 @@ For Colab execution, change `DRIVE_BASE` to `/content/drive/MyDrive/MS3_JNC_Subm
 - `MS3_Figures/Figure1-3` — Publication figures (300 DPI, PDF + PNG)
 - `MS3_Supplementary_Tables/Table_S1-S4` — Supplementary data
 
+## AI Disclosure
+
+Claude (Anthropic) was used as a programming assistant during pipeline development, manuscript formatting, and code review. All analytical decisions, methodology design, data interpretation, and scientific conclusions are solely the work of the author.
+
 ## Author
 
 Drake H. Harbert (ORCID: 0009-0007-7740-3616)
